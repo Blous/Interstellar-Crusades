@@ -1,4 +1,10 @@
+
+# Interstellar-Crusades
+Readme
+
+How to do it
 # Readme!
-Read_me file
+README file
 
 First step: Go and make a real README
+
