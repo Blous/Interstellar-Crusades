@@ -1,2 +1,4 @@
-# Interstellar-Crusades
-Source code for the game Intersellar Crusades
+# Readme!
+Read_me file
+
+First step: Go and make a real README
