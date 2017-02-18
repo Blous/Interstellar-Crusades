@@ -1,5 +1,4 @@
 # Interstellar-Crusades
-Source code for the game Intersellar Crusades
+Readme
 
-
-This game is a MOBA about random generated maps
+How to do it!
